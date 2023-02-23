@@ -1,27 +1,8 @@
 ### Hi, I'm Stephen!
 
-A full stack engineer with an eye for design and an addiction to problem solving.  I'm excited to find my next role, and ready to find the perfect fit.  I have been described as a self-starter, a sponge for new information and a communicative collaberator.  Looking forward to seeing what opportunites are out there for me to leverage my technical skills as well as my passion for design, all while creating fun, easy to use applications for user's and clients alike.
-
-
-
-🌍 I’m currently working on a subscription based multi-platform video streaming application. 
+hey, welcome to my portfolio! im a full-stack software engineer with a passion for design and innovation. i enjoy exploring new avenues for growth and am    currently focused on 2d and 3d animation. hanging around in nature with my dog reggie-bentley keeps me grounded.
 <br/>
 <br/>
-🌿 I’m currently learning React-Native, GraphQL and AWS Amplify.
-<br/>
-<br/>
-🐝 I’m looking to collaborate on anything interesting, just reach out.
-<br/>
-<br/>
-🤔 I’m looking for help with finding a full-time role that's the perfect fit.
-<br/>
-<br/>
-📫 How to reach me: stephenszelpal@icloud.com
-<br/>
-<br/>
-😄 Pronouns: he / him / his 
- <br/>
- <br/>
 🎬 Fun fact: I've worked as an actor for productions on AmazonPrime, Showtime, HBO, Network Television and Feature Film
 <br/>
 <br/>
